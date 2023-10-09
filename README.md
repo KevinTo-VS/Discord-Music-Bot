@@ -1,3 +1,3 @@
-# final-project-fall-2022
+# Discord Music Bot
 
 https://youtu.be/8SFFtHnmZQA
