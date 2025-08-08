@@ -9,8 +9,6 @@ intents = discord.Intents.all()
 
 client = discord.Client(intents = intents)
 
-token = "MTA0OTEyMjQ0MjUwNjkzNjM0MA.GVpJb1.Axa2_PIjVymGKb9wIJzrob7pV5ZOrpy0H1QAMg"
-
 voice_clients = {}
 
 yt_dl_opts = {'format': 'bestaudio/best'}
@@ -72,6 +70,7 @@ async def on_message(msg):
 client.run(token)
 
 #tests
+
 
 
 
